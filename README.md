@@ -26,7 +26,9 @@
 ### Hong Kong
 * ![OK_ICON] <font size=4>[Building Footprint of Hong Kong ](https://portal.csdi.gov.hk/geoportal/#metadataInfoPanel)
 
-
+## <font color=#0c6cdc>Night-time Light</font>
+### World
+* ![OK_ICON] <font size=4>[Earth Observation Group: See the World at Night](https://eogdata.mines.edu/products/vnl/)
 
 [OK_ICON]: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 [FIXME_ICON]: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
