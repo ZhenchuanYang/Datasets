@@ -2,6 +2,11 @@
 **Notice:** Owner and contributors manually generate this repo. [This dataset](https://github.com/ZhenchuanYang/Datasets/tree/main) is a topic-centric public data source of high quality, which may focus more on GeoBigData sources at the beginning due to the GeoInformation Science major of the owner. However, the owner intends to include data from as many scientific domains as possible. Welcome contributors from cross disciplines to improve this dataset.
 
 <font size=5.5>**Table of Contents**</font>
+- [Datasets](#datasets)
+  - [Famous Public Datasets](#famous-public-datasets)
+  - [Building Footprint](#building-footprint)
+    - [World](#world)
+    - [Hong Kong](#hong-kong)
 
 
 ## <font color=#0c6cdc>Famous Public Datasets</font>
@@ -22,6 +27,3 @@
 
 [OK_ICON]: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 [FIXME_ICON]: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
-
-
-
