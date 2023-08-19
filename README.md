@@ -21,6 +21,8 @@
 * ![OK_ICON] <font size=4>[Data from Geo-Wiki Campaign on Built-up Surfaces](https://iiasa.ac.at/models-tools-data/data-from-geo-wiki-campaign-on-built-up-surfaces)
 * ![OK_ICON] <font size=4>[GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints/tree/main)
 * ![OK_ICON] <font size=4>[OpenStreetMap Data Extracts](https://download.geofabrik.de/)
+### China
+* ![OK_ICON] <font size=4>[CBRA: The first multi-annual (2016-2021) and high-resolution (2.5 m) building rooftop area dataset in China derived with Super-resolution Segmentation from Sentinel-2 imagery](https://zenodo.org/record/7500612)
 ### Hong Kong
 * ![OK_ICON] <font size=4>[Building Footprint of Hong Kong ](https://portal.csdi.gov.hk/geoportal/#metadataInfoPanel)
 
