@@ -20,6 +20,7 @@
 * ![OK_ICON] <font size=4>[GHS built-up height (R2023)](https://ghsl.jrc.ec.europa.eu/download.php?ds=builtH)
 * ![OK_ICON] <font size=4>[Data from Geo-Wiki Campaign on Built-up Surfaces](https://iiasa.ac.at/models-tools-data/data-from-geo-wiki-campaign-on-built-up-surfaces)
 * ![OK_ICON] <font size=4>[GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints/tree/main)
+* ![OK_ICON] <font size=4>[OpenStreetMap Data Extracts](https://download.geofabrik.de/)
 ### Hong Kong
 * ![OK_ICON] <font size=4>[Building Footprint of Hong Kong ](https://portal.csdi.gov.hk/geoportal/#metadataInfoPanel)
 
