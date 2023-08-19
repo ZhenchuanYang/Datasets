@@ -5,7 +5,7 @@
 
 
 ## <font color=#0c6cdc>Famous Public Datasets</font>
-* ![OK_ICON] <font size=4>[The awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets/tree/master)
+* ![OK_ICON] <font size=4>[The awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets/tree/master](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst))
 * 
 
 
