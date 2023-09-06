@@ -1,5 +1,11 @@
 # Journal List
 Categorized and ranked by the latest JCR 2022
+- [Journal List](#journal-list)
+  - [Geography](#geography)
+  - [Environmental Sciences](#environmental-sciences)
+  - [Multidisciplinary Sciecnes](#multidisciplinary-sciecnes)
+  - [Preprint](#preprint)
+
 ## Geography
 - [LANDSCAPE AND URBAN PLANNING](https://www.sciencedirect.com/journal/landscape-and-urban-planning)
 - [COMPUTERS ENVIRONMENT AND URBAN SYSTEMS](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems)
