@@ -30,5 +30,15 @@
 ### World
 * ![OK_ICON] <font size=4>[Earth Observation Group: See the World at Night](https://eogdata.mines.edu/products/vnl/)
 
+## <font color=#0c6cdc>Migration</font>
+* ![OK_ICON] <font size=4>[Data for: World's human migration patterns in 2000-2019 unveiled by high-resolution data]([https://eogdata.mines.edu/products/vnl/](https://zenodo.org/record/7997134)https://zenodo.org/record/7997134)
+
+* 
+## <font color=#0c6cdc>COVID-19</font>
+* ![OK_ICON] <font size=4>[Oxford Covid-19 Government Response Tracker](https://github.com/OxCGRT)
+* ![OK_ICON] <font size=4>[A global database of COVID-19 vaccinations](https://github.com/OxCGRT](https://github.com/owid/covid-19-data/tree/master/scripts/output/vaccinations)
+* ![OK_ICON] <font size=4>[COVID-19 Government Response Event Dataset (CoronaNet v.1.0)](https://github.com/OxCGRT](https://github.com/CoronaNetDataScience/corona_tscs)
+* 
+
 [OK_ICON]: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
 [FIXME_ICON]: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
