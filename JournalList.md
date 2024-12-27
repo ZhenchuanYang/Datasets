@@ -30,6 +30,8 @@ Categorized and ranked by the latest JCR 2022
 - [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin)
 - [Nature Communications](https://www.nature.com/ncomms/)
 - [Science Advances](https://www.science.org/journal/sciadv)
+- [Nature Cities](https://www.nature.com/natcities/)
+- [Nature Sustainability]()
 
 ## Preprint
 - [arXiv](https://arxiv.org/)
